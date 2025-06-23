@@ -13,7 +13,7 @@ import streamlit as st
 st.set_page_config(page_title="Diabetes Prediction App", layout="centered")
 
 # Title and description
-st.title("🩺 Diabetes Prediction App")
+st.title("Diabetes Prediction App 🚀")
 st.markdown("Enter the following details to predict the likelihood of diabetes:")
 
 # Load Model and Scaler
